@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <outputPath>D:\QCDataHeading\in</outputPath>
+  <files>
+    <file>
+      <filePath>D:\QCDataHeading\in\SM0235_7000-000132_VIS0005_DC12547R15236_20190523_163152.csv</filePath>
+      <Site>Stamford Hospital</Site>
+      <Address>1 Hospital Plz, Stamford, CT, 06902</Address>
+      <OptiScannerSN>5000-000116</OptiScannerSN>
+      <OSCartridgeLot>006899/exp:16Nov2019</OSCartridgeLot>
+      <QCLots>
+        <QCLot>lot:CV112918/exp:25May2020 (QC-L)</QCLot>
+        <QCLot>lot:CP112918/exp:25May2020 (QC-H)</QCLot>
+      </QCLots>
+    </file>
+    <file>
+      <filePath>D:\QCDataHeading\in\SM0235_7000-000132_VIS0005_DC12547R15236_20190523_163152.csv</filePath>
+      <Site>Stamford Hospital</Site>
+      <Address>1 Hospital Plz, Stamford, CT, 06902</Address>
+      <OptiScannerSN>5000-000116</OptiScannerSN>
+      <OSCartridgeLot>006899/exp:16Nov2019</OSCartridgeLot>
+      <QCLots>
+        <QCLot>lot:CV112918/exp:25May2020 (QC-L)</QCLot>
+        <QCLot>lot:CP112918/exp:25May2020 (QC-H)</QCLot>
+      </QCLots>
+    </file>
+  </files>
+</config>
+
